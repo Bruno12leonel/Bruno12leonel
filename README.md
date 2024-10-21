@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67081ac6fb4be684db0107d2?variant=dark" alt="roadmap.sh"/></a>
+
 <!--
 **Bruno12leonel/Bruno12leonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
